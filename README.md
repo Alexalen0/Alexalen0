@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **OpenCV**
+- 👯 I’m looking to collaborate on **LLMs**
 
 - 📫 How to reach me **alex3alen@gmail.com**
 
