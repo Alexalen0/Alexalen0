@@ -40,12 +40,20 @@
 
 ### 📊 GitHub Stats
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexalen0&count_private=true&show_icons=true&theme=merko&rank_icon=github" width="45%" height="195px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexalen0&theme=merko&layout=compact" width="45%" height="195px" alt="Top Languages" />    
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexalen0&theme=merko&hide_border=true" width="45%" height="195px" alt="GitHub Streak" />
-</div>
 
+<div style="display: flex; gap: 10px; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexalen0&count_private=true&show_icons=true&theme=merko&rank_icon=github"
+       height="200px"
+       width="350px"
+       alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexalen0&theme=merko&layout=compact"
+       height="200px"
+       alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexalen0&theme=merko&hide_border=true"
+       height="200px"
+       width="350px"
+       alt="GitHub Streak" />
+</div>
 ---
 
 ### 🏆 GitHub Trophies
