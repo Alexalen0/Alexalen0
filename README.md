@@ -4,22 +4,23 @@
 ### 👨‍💻 About Me
 
 <div>
-  <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="images/1.png" width="20" /> Full-stack dev crafting clean, intuitive UIs
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img src="images/1.png" style="height: 20px;" /> Full-stack dev crafting clean, intuitive UIs
   </div>
-  <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="images/2.png" width="20" /> Exploring the exciting world of <b>Next.js</b>, <b>LLMs</b>, and <b>GANs</b>
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img src="images/2.png" style="height: 20px;" /> Exploring the exciting world of <b>Next.js</b>, <b>LLMs</b>, and <b>GANs</b>
   </div>
-  <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="images/3.png" width="20" /> Might refactor your code just for fun
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img src="images/3.png" style="height: 20px;" /> Might refactor your code just for fun
   </div>
-  <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="images/4.png" width="20" /> Always up for collabs or geeking out over ideas
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img src="images/4.png" style="height: 20px;" /> Always up for collabs or geeking out over ideas
   </div>
-  <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="images/5.png" width="20" /> Endlessly curious about “how it works”
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img src="images/5.png" style="height: 20px;" /> Endlessly curious about “how it works”
   </div>
 </div>
+
 
 
 
