@@ -1,9 +1,6 @@
-<div style="display: flex; align-items: center; gap: 10px;">
-  <h1 style="margin: 0; font-size: 2em; line-height: 1;">Hellllllo <code>&lt;Alex/&gt;</code> here</h1>
-  <img alt="GIF" src="https://media.tenor.com/bxT-HcVQnOQAAAAM/hi-smiley-face.gif" style="height: 2em;" />
-</div>
-
+# Hellllllo `<Alex/>` here 👋
 <img align="right" alt="GIF" height="180px" src="https://64.media.tumblr.com/938c1aea9207b65b258bcf36d4a0bc4c/tumblr_ou9z5xBiS91wnk5sro4_500.gifv" />
+
 
 
 ### 👨‍💻 About Me
