@@ -4,12 +4,23 @@
 ### 👨‍💻 About Me
 
 <div>
-  <div><img src="images/1.png" width="20" style="vertical-align: middle;"/> Full-stack dev crafting clean, intuitive UIs</div>
-  <div><img src="images/2.png" width="20" style="vertical-align: middle;"/> Exploring the exciting world of <b>Next.js</b>, <b>LLMs</b>, and <b>GANs</b></div>
-  <div><img src="images/3.png" width="20" style="vertical-align: middle;"/> Might refactor your code just for fun</div>
-  <div><img src="images/4.png" width="20" style="vertical-align: middle;"/> Always up for collabs or geeking out over ideas</div>
-  <div><img src="images/5.png" width="20" style="vertical-align: middle;"/> Endlessly curious about “how it works”</div>
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <img src="images/1.png" width="20" /> Full-stack dev crafting clean, intuitive UIs
+  </div>
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <img src="images/2.png" width="20" /> Exploring the exciting world of <b>Next.js</b>, <b>LLMs</b>, and <b>GANs</b>
+  </div>
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <img src="images/3.png" width="20" /> Might refactor your code just for fun
+  </div>
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <img src="images/4.png" width="20" /> Always up for collabs or geeking out over ideas
+  </div>
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <img src="images/5.png" width="20" /> Endlessly curious about “how it works”
+  </div>
 </div>
+
 
 
 
