@@ -5,10 +5,10 @@
 
 <div>
   <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="images/1.png" style="height: 20px;" /><div> Full-stack dev crafting clean, intuitive UIs </div>
+    <img src="images/1.png" style="height: 20px;" /><span> Full-stack dev crafting clean, intuitive UIs </span>
   </div>
   <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="images/2.png" style="height: 20px;" /><div> Exploring the exciting world of <b>Next.js</b>, <b>LLMs</b>, and <b>GANs</b> </div>
+    <img src="images/2.png" style="height: 20px;" /><span> Exploring the exciting world of <b>Next.js</b>, <b>LLMs</b>, and <b>GANs</b> </span>
   </div>
   <div style="display: flex; align-items: center; gap: 10px;">
     <img src="images/3.png" style="height: 20px;" /> Might refactor your code just for fun
